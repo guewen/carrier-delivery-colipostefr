@@ -65,7 +65,7 @@ def map_except_message(message):
                     "\nVraisemblablement, vous allez passer encore beaucoup "
                     "de temps à faire la balle de ping pong entre les "
                     "services : commercial, ADV et Support Intégration Clients."
-                    "\nCe dernier est probablement votre meilleur chance."
+                    "\nCe dernier est probablement votre meilleure chance."
                     "\nun homme averti en vaut deux"
                     "\nBougez avec la poste"
                     "\nBonne chance\n\n(the developer team)")
